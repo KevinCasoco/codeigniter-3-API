@@ -11,7 +11,7 @@ class ApiController extends RestController
 {
 	public function index_get()
 	{
-		echo "This is restful API test";
+		echo "Success API Testing!!";
 	}
 
 }
